@@ -1,0 +1,15 @@
+{
+  "talirispayrespprom": {
+    "id": "number",
+    "employeeErpId": "string",
+    "promotion": "string",
+    "value": "string",
+    "exportToExcel": "boolean",
+    "effectiveDate": "date",
+    "incomingDate": "date",
+  },
+  "talirispayresprubric": {
+    "body": "string",
+    "post": "Post"
+  }
+}
